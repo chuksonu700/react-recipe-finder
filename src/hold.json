@@ -1,0 +1,313 @@
+{
+    "from": 1,
+    "to": 20,
+    "count": 10000,
+    "_links": {
+      "next": {
+        "href": "https://api.edamam.com/api/recipes/v2?q=Chicken%20Rice&ingr=5-10&app_key=%2020ee3626937cb451d93dae0496e3a16b%09&field=uri&field=label&field=image&field=source&field=url&_cont=CHcVQBtNNQphDmgVQntAEX4BYVdtBQsAQGNJAmoVZ1VyBwUBUXlSAWQRZlV3BgYEQ2ZDBDcSMlAhAQMOEWEWATNCYFN0DFYVLnlSVSBMPkd5BgMbUSYRVTdgMgksRlpSAAcRXTVGcV84SU4%3D&type=public&app_id=038fad75",
+        "title": "Next page"
+      }
+    },
+    "hits": [
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_110880e24455ef15e2de76501fd5d26e",
+          "label": "Chicken & Rice Soup",
+          "image": "https://www.edamam.com/web-img/abe/abe60dc78fb74335135da20aa9f2b01b.jpg",
+          "source": "Epicurious",
+          "url": "https://www.epicurious.com/recipes/food/views/chicken-rice-soup-366990"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/110880e24455ef15e2de76501fd5d26e?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ec8449db2016787b0fe4769f8187e8cd",
+          "label": "Chinese poached chicken & rice",
+          "image": "https://www.edamam.com/web-img/32b/32bae7d7a8833f1607f6fa21c526af9c.jpg",
+          "source": "BBC Good Food",
+          "url": "http://www.bbcgoodfood.com/recipes/chinese-poached-chicken-rice"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/ec8449db2016787b0fe4769f8187e8cd?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7c7a349182a094f777416ae0f6f964b7",
+          "label": "Filipino style Chicken Rice Porridge",
+          "image": "https://www.edamam.com/web-img/0a5/0a5b9279c4be2d23c8f1fbd64f7b778e.JPG",
+          "source": "Food52",
+          "url": "https://food52.com/recipes/16112-filipino-style-chicken-rice-porridge"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/7c7a349182a094f777416ae0f6f964b7?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_89ed40564eb288f36a19e6cdd9c0f1fd",
+          "label": "Vietnamese Chicken Rice Soup (Congee)",
+          "image": "https://www.edamam.com/web-img/9ba/9ba333b4a0075e04de153ab5f20e88af.jpg",
+          "source": "PBS Food",
+          "url": "http://www.pbs.org/food/recipes/vietnamese-chicken-rice-soup-congee/"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/89ed40564eb288f36a19e6cdd9c0f1fd?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_22ec49b223e5cdc58d44333c105e05d0",
+          "label": "Chicken Rice Skillet",
+          "image": "https://www.edamam.com/web-img/e19/e19ba16a04c707a632a035cd525c3983.jpg",
+          "source": "Delish",
+          "url": "http://www.delish.com/cooking/recipe-ideas/recipes/a9149/chicken-rice-skillet-recipe-campbells-1109/"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/22ec49b223e5cdc58d44333c105e05d0?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_959e2d3e4e8ccd0236d69883ef5faaf8",
+          "label": "Chicken Rice Salad with Lime Cream Dressing",
+          "image": "https://www.edamam.com/web-img/1b3/1b3540f4fc857d2ffe1574b6719dc0cb.jpg",
+          "source": "Cookstr",
+          "url": "http://www.cookstr.com/recipes/chicken-rice-salad-with-lime-cream-dressing"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/959e2d3e4e8ccd0236d69883ef5faaf8?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_803e1ff57bdd80de28fadff1f6af9de6",
+          "label": "Cranberry Hoisin Chicken Rice",
+          "image": "https://www.edamam.com/web-img/e9f/e9f03819071d7387e56c2db828b7dfc0.jpg",
+          "source": "Good Housekeeping",
+          "url": "http://www.goodhousekeeping.com/food-recipes/a10507/cranberry-hoisin-chicken-rice-recipe-clv1110/"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/803e1ff57bdd80de28fadff1f6af9de6?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_164e7f4926b6c813b30a78365d5d4529",
+          "label": "Chicken, Rice, and Parmesan Skillet",
+          "image": "https://www.edamam.com/web-img/d4c/d4cf600a41ffae0736374161ce4c580a.jpg",
+          "source": "My Recipes",
+          "url": "http://www.myrecipes.com/recipe/chicken-rice-parmesan-skillet"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/164e7f4926b6c813b30a78365d5d4529?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a08ab180b084f7e63379ae87357378f5",
+          "label": "Oven-baked Thai chicken rice",
+          "image": "https://www.edamam.com/web-img/515/515e2ad9ff3b3630b024d7518bb14d55.jpg",
+          "source": "BBC Good Food",
+          "url": "https://www.bbcgoodfood.com/recipes/oven-baked-thai-chicken-rice"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/a08ab180b084f7e63379ae87357378f5?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ca7b2990893142c228b33d1f7215eceb",
+          "label": "Dinner Tonight: Chicken Soup with Jasmine Rice and Ginger Recipe",
+          "image": "https://www.edamam.com/web-img/b6a/b6a1284292708aaafc46ccef6b8a4d6d.jpg",
+          "source": "Serious Eats",
+          "url": "http://www.seriouseats.com/recipes/2010/12/chicken-soup-with-jasmine-rice-ginger-recipe.html"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/ca7b2990893142c228b33d1f7215eceb?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_240d0c85a8c754427d6b6eef9bb4d8dc",
+          "label": "Slow-Cooker Herbs de Provence Chicken & Rice Soup recipes",
+          "image": "https://www.edamam.com/web-img/aa1/aa158e2c43bfdd1bd8e4721322360d13",
+          "source": "The Naptime Chef",
+          "url": "http://www.thenaptimechef.com/2012/11/slow-cooker-herbs-de-provence-chicken-rice-soup-powernap/"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/240d0c85a8c754427d6b6eef9bb4d8dc?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_25faa6d6e181e82e93a3493aa9d8f4d7",
+          "label": "Teriyaki Chicken with Rice Salad",
+          "image": "https://www.edamam.com/web-img/d8b/d8bfb8602094e0a174ad8025e102619d.jpg",
+          "source": "Martha Stewart",
+          "url": "https://www.marthastewart.com/1004439/teriyaki-chicken-rice-salad"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/25faa6d6e181e82e93a3493aa9d8f4d7?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d161f62f3c8f9ce73b2f72a218e276d0",
+          "label": "All-in-one rice & chicken",
+          "image": "https://www.edamam.com/web-img/595/595ce8ece800aafa2a1fd7098516c994.jpg",
+          "source": "Jamie Oliver",
+          "url": "http://www.jamieoliver.com/recipes/chicken-recipes/all-in-one-rice-amp-chicken/"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/d161f62f3c8f9ce73b2f72a218e276d0?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_47da270386cca5da42701b4eb2cde4cb",
+          "label": "Chicken & Vegetable Rice Noodle Soup recipes",
+          "image": "https://www.edamam.com/web-img/43d/43db18d8446b1d7166dc6a1a084b8d1e",
+          "source": "Pioneer Woman",
+          "url": "http://thepioneerwoman.com/food-and-friends/chicken-vegetable-rice-noodle-soup/"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/47da270386cca5da42701b4eb2cde4cb?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_39e73c487e6049f600c0d47b2d1f065c",
+          "label": "Chicken and Wild Rice Soup recipes",
+          "image": "https://www.edamam.com/web-img/b7f/b7fc6c6a3bdb358cd074582b2dd09b60",
+          "source": "Chowhound",
+          "url": "http://www.chowhound.com/recipes/chicken-and-wild-rice-soup-11481"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/39e73c487e6049f600c0d47b2d1f065c?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8d692b3c71e4782f553c323f5b4f4532",
+          "label": "Cream of Chicken-Rice Soup recipes",
+          "image": "https://www.edamam.com/web-img/db7/db7f57561aa02662f4c164a660a59b00",
+          "source": "My Recipes",
+          "url": "http://www.myrecipes.com/recipe/cream-chicken-rice-soup"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/8d692b3c71e4782f553c323f5b4f4532?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cf7a9ea1587edc8c626def6e68b966b2",
+          "label": "Rice Cooker Ginger Chicken And Rice",
+          "image": "https://www.edamam.com/web-img/eaa/eaabff6ed1b51431259ef7c5c97cbe42.jpg",
+          "source": "Food & Wine",
+          "url": "http://www.foodandwine.com/recipes/rice-cooker-ginger-chicken-and-rice"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/cf7a9ea1587edc8c626def6e68b966b2?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_93b072c256f0c872828739f513845c40",
+          "label": "Chicken Fried Rice",
+          "image": "https://www.edamam.com/web-img/ebd/ebdc48cd66cc9ecaa6d5e66a79a254f0.jpg",
+          "source": "Food52",
+          "url": "https://food52.com/recipes/7865-chicken-fried-rice"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/93b072c256f0c872828739f513845c40?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8c137ea02cc2aafb896beb5105c234f5",
+          "label": "Japanese Chicken-Scallion Rice Bowl",
+          "image": "https://www.edamam.com/web-img/440/4401f81fedad27a419aaa91459fb2e72.jpg",
+          "source": "EatingWell",
+          "url": "http://www.eatingwell.com/recipes/japanese_chicken_scallion_rice_bowl.html"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/8c137ea02cc2aafb896beb5105c234f5?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      },
+      {
+        "recipe": {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_be596b809da5ab8afdde072011e88e84",
+          "label": "Chicken and Rice With Peas",
+          "image": "https://www.edamam.com/web-img/0ff/0ff4442f01b78e33615079469bd16477.jpg",
+          "source": "Real Simple",
+          "url": "https://www.realsimple.com/food-recipes/browse-all-recipes/chicken-rice-peas"
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/be596b809da5ab8afdde072011e88e84?type=public&app_id=038fad75&app_key=%2020ee3626937cb451d93dae0496e3a16b%09",
+            "title": "Self"
+          }
+        }
+      }
+    ]
+  }
